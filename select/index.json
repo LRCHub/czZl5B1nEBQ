@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "不思議",
+  "base_artist": "星野 源",
+  "createdAt": "2025-12-02T19:55:26.780939Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "不思議 Tokyo シンデレラ",
+      "artist": "セイントフォー",
+      "has_synced": true,
+      "path": "select/01_不思議_Tokyo_シンデレラ_セイントフォー.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "不思議",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/02_不思議_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "不思議",
+      "artist": "t e l e p a t h テレパシー能力者",
+      "has_synced": false,
+      "path": "select/03_不思議_t_e_l_e_p_a_t_h_テレパシー能力者.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "不思議",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/04_不思議_中森明菜.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "不思議",
+      "artist": "Nakamori, Akina",
+      "has_synced": true,
+      "path": "select/05_不思議_Nakamori,_Akina.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "不思議 (2023 Lacquer Master Sound)",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/06_不思議_(2023_Lacquer_Master_Sound)_中森明菜.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "不思議",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_不思議_星野源.txt"
+    }
+  ]
+}
